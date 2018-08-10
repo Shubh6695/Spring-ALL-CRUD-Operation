@@ -1,0 +1,5 @@
+package com.aartek.controller;
+
+public class RegistrationController {
+
+}

@@ -1,0 +1,4 @@
+com\aartek\configuration\AppInitializer.class
+com\aartek\configuration\AppConfig.class
+com\aartek\configuration\HibernateConfiguration.class
+com\aartek\controller\RegistrationController.class

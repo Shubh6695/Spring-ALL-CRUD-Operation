@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!-- Scenario :- 2 -->
+	<!-- footer and body -->
+
+	<!-- <definition name="baseTemplate1" id="baseTemplate1" template="/WEB-INF/layout/baseLayout1.jsp"> 
+		<put-attribute name="footer" value="/WEB-INF/layout/footer.jsp"></put-attribute> 
+		<put-attribute name="body" value="${body}"></put-attribute> </definition> 
+		
+			<definition name="login" id="login" extends="baseTemplate1">
+
+		<put-attribute name="body" value="/WEB-INF/jsp/login.jsp"></put-attribute>
+
+	</definition>
+		
+		
+		-->
+	<!-- Scenario :- 3 -->
+
+	<!-- Only Body -->
+
+	<!-- <definition name="baseTemplate2" id="baseTemplate2" template="/WEB-INF/jsp/login.jsp"></definition> -->
+

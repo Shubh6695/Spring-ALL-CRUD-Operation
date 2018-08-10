@@ -1,0 +1,10 @@
+package com.aartek.config;
+
+public class JPAMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

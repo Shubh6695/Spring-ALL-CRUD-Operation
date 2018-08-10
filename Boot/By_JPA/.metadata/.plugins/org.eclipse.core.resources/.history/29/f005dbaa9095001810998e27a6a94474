@@ -1,0 +1,22 @@
+package com.aartek.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.apache.log4j.Logger;
+
+@Controller
+public class RegistrationController {
+
+	
+	private static final Logger log = Logger.getLogger(RegistrationController.class);
+
+	
+	public String registrationGET(Model map)
+	{
+		
+		
+		return "registration";
+	}
+	
+	
+}

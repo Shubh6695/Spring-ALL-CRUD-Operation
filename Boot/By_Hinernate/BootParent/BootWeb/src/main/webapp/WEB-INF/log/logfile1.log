@@ -1,0 +1,1271 @@
+2018-07-30 18:49:21 INFO  RegistrationController:25 - Registration Controller :---- Registraion GET Method  
+2018-07-30 18:55:46 INFO  RegistrationController:27 - Registration Controller :---- Registraion GET Method  
+2018-07-30 18:56:12 INFO  RegistrationController:38 - Registration Controller :---- Registraion POST Method  
+2018-07-30 18:56:12 WARN  RegistrationService:24 - Registration Service :---- Save User Method
+2018-07-30 18:56:12 DEBUG RegistrationRepo:15 - Registration Repository :---- Save User Method
+2018-07-30 19:00:54 INFO  RegistrationController:27 - Registration Controller :---- Registraion GET Method  
+2018-07-30 19:01:10 INFO  RegistrationController:38 - Registration Controller :---- Registraion POST Method  
+2018-07-30 19:01:10 WARN  RegistrationService:24 - Registration Service :---- Save User Method
+2018-07-30 19:01:10 DEBUG RegistrationRepo:15 - Registration Repository :---- Save User Method
+2018-07-30 19:05:18 INFO  RegistrationController:27 - Registration Controller :---- Registraion GET Method  
+2018-07-30 19:05:34 INFO  RegistrationController:38 - Registration Controller :---- Registraion POST Method  
+2018-07-30 19:05:34 WARN  RegistrationService:24 - Registration Service :---- Save User Method
+2018-07-30 19:05:34 DEBUG RegistrationRepo:21 - Registration Repository :---- Save User Method
+2018-07-30 19:08:23 INFO  RegistrationController:27 - Registration Controller :---- Registraion GET Method  
+2018-07-30 19:08:40 INFO  RegistrationController:38 - Registration Controller :---- Registraion POST Method  
+2018-07-30 19:08:41 WARN  RegistrationService:27 - Registration Service :---- Save User Method
+2018-07-30 19:08:41 DEBUG RegistrationRepo:23 - Registration Repository :---- Save User Method
+2018-07-30 19:08:41 DEBUG RegistrationRepo:28 - 
+ Record Inserted Successfully 
+
+2018-07-30 19:09:43 INFO  RegistrationController:38 - Registration Controller :---- Registraion POST Method  
+2018-07-30 19:09:43 WARN  RegistrationService:27 - Registration Service :---- Save User Method
+2018-07-30 19:09:43 DEBUG RegistrationRepo:23 - Registration Repository :---- Save User Method
+2018-07-30 19:09:43 DEBUG RegistrationRepo:28 - 
+ Record Inserted Successfully 
+
+2018-07-30 19:10:27 INFO  RegistrationController:27 - Registration Controller :---- Registraion GET Method  
+2018-07-30 19:10:41 INFO  RegistrationController:38 - Registration Controller :---- Registraion POST Method  
+2018-07-30 19:10:42 WARN  RegistrationService:27 - Registration Service :---- Save User Method
+2018-07-30 19:10:42 DEBUG RegistrationRepo:23 - Registration Repository :---- Save User Method
+2018-07-30 19:10:42 DEBUG RegistrationRepo:28 - 
+ Record Inserted Successfully 
+
+2018-07-30 19:39:10 INFO  RegistrationController:29 - Registration Controller :---- Registraion GET Method  
+2018-07-30 19:39:17 INFO  RegistrationController:51 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-30 19:39:17 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-30 19:39:17 DEBUG RegistrationRepo:38 - Registration Repository :---- GET ALL User Method
+2018-07-30 19:39:17 DEBUG RegistrationRepo:42 - 
+ Record Fetched Successfully 
+
+2018-07-30 19:42:12 INFO  RegistrationController:29 - Registration Controller :---- Registraion GET Method  
+2018-07-30 19:42:15 INFO  RegistrationController:51 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-30 19:42:15 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-30 19:42:15 DEBUG RegistrationRepo:38 - Registration Repository :---- GET ALL User Method
+2018-07-30 19:42:15 DEBUG RegistrationRepo:42 - 
+ Record Fetched Successfully 
+
+2018-07-30 19:43:30 INFO  RegistrationController:29 - Registration Controller :---- Registraion GET Method  
+2018-07-30 19:43:32 INFO  RegistrationController:51 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-30 19:43:32 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-30 19:43:32 DEBUG RegistrationRepo:38 - Registration Repository :---- GET ALL User Method
+2018-07-30 19:43:32 DEBUG RegistrationRepo:42 - 
+ Record Fetched Successfully 
+
+2018-07-30 19:44:30 INFO  RegistrationController:29 - Registration Controller :---- Registraion GET Method  
+2018-07-30 19:44:32 INFO  RegistrationController:51 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-30 19:44:32 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-30 19:44:32 DEBUG RegistrationRepo:38 - Registration Repository :---- GET ALL User Method
+2018-07-30 19:44:32 DEBUG RegistrationRepo:42 - 
+ Record Fetched Successfully 
+
+2018-07-30 19:44:49 INFO  RegistrationController:40 - Registration Controller :---- Registraion POST Method  
+2018-07-30 19:44:49 WARN  RegistrationService:29 - Registration Service :---- Save User Method
+2018-07-30 19:44:49 DEBUG RegistrationRepo:25 - Registration Repository :---- Save User Method
+2018-07-30 19:44:50 DEBUG RegistrationRepo:30 - 
+ Record Inserted Successfully 
+
+2018-07-30 19:45:04 INFO  RegistrationController:40 - Registration Controller :---- Registraion POST Method  
+2018-07-30 19:45:04 WARN  RegistrationService:29 - Registration Service :---- Save User Method
+2018-07-30 19:45:04 DEBUG RegistrationRepo:25 - Registration Repository :---- Save User Method
+2018-07-30 19:45:05 DEBUG RegistrationRepo:30 - 
+ Record Inserted Successfully 
+
+2018-07-30 19:45:29 INFO  RegistrationController:51 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-30 19:45:29 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-30 19:45:29 DEBUG RegistrationRepo:38 - Registration Repository :---- GET ALL User Method
+2018-07-30 19:45:29 DEBUG RegistrationRepo:42 - 
+ Record Fetched Successfully 
+
+2018-07-30 19:46:47 INFO  RegistrationController:29 - Registration Controller :---- Registraion GET Method  
+2018-07-30 19:46:50 INFO  RegistrationController:51 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-30 19:46:50 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-30 19:46:50 DEBUG RegistrationRepo:38 - Registration Repository :---- GET ALL User Method
+2018-07-30 19:46:50 DEBUG RegistrationRepo:42 - 
+ Record Fetched Successfully 
+
+2018-07-30 19:47:37 INFO  RegistrationController:29 - Registration Controller :---- Registraion GET Method  
+2018-07-30 19:47:40 INFO  RegistrationController:51 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-30 19:47:40 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-30 19:47:40 DEBUG RegistrationRepo:38 - Registration Repository :---- GET ALL User Method
+2018-07-30 19:47:40 DEBUG RegistrationRepo:42 - 
+ Record Fetched Successfully 
+
+2018-07-30 19:47:55 INFO  RegistrationController:40 - Registration Controller :---- Registraion POST Method  
+2018-07-30 19:47:55 WARN  RegistrationService:29 - Registration Service :---- Save User Method
+2018-07-30 19:47:55 DEBUG RegistrationRepo:25 - Registration Repository :---- Save User Method
+2018-07-30 19:47:55 DEBUG RegistrationRepo:30 - 
+ Record Inserted Successfully 
+
+2018-07-30 19:49:52 INFO  RegistrationController:29 - Registration Controller :---- Registraion GET Method  
+2018-07-30 19:50:05 INFO  RegistrationController:51 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-30 19:50:05 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-30 19:50:05 DEBUG RegistrationRepo:38 - Registration Repository :---- GET ALL User Method
+2018-07-30 19:50:05 DEBUG RegistrationRepo:42 - 
+ Record Fetched Successfully 
+
+2018-07-30 19:50:29 INFO  RegistrationController:40 - Registration Controller :---- Registraion POST Method  
+2018-07-30 19:50:29 WARN  RegistrationService:29 - Registration Service :---- Save User Method
+2018-07-30 19:50:29 DEBUG RegistrationRepo:25 - Registration Repository :---- Save User Method
+2018-07-30 19:50:29 DEBUG RegistrationRepo:30 - 
+ Record Inserted Successfully 
+
+2018-07-30 19:50:50 INFO  RegistrationController:40 - Registration Controller :---- Registraion POST Method  
+2018-07-30 19:50:50 WARN  RegistrationService:29 - Registration Service :---- Save User Method
+2018-07-30 19:50:50 DEBUG RegistrationRepo:25 - Registration Repository :---- Save User Method
+2018-07-30 19:50:50 DEBUG RegistrationRepo:30 - 
+ Record Inserted Successfully 
+
+2018-07-30 19:51:08 INFO  RegistrationController:51 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-30 19:51:08 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-30 19:51:08 DEBUG RegistrationRepo:38 - Registration Repository :---- GET ALL User Method
+2018-07-30 19:51:08 DEBUG RegistrationRepo:42 - 
+ Record Fetched Successfully 
+
+2018-07-30 19:53:24 INFO  RegistrationController:29 - Registration Controller :---- Registraion GET Method  
+2018-07-30 19:53:26 INFO  RegistrationController:53 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-30 19:53:26 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-30 19:53:26 DEBUG RegistrationRepo:38 - Registration Repository :---- GET ALL User Method
+2018-07-30 19:53:26 DEBUG RegistrationRepo:42 - 
+ Record Fetched Successfully 
+
+2018-07-30 19:53:40 INFO  RegistrationController:40 - Registration Controller :---- Registraion POST Method  
+2018-07-30 19:53:40 WARN  RegistrationService:29 - Registration Service :---- Save User Method
+2018-07-30 19:53:40 DEBUG RegistrationRepo:25 - Registration Repository :---- Save User Method
+2018-07-30 19:53:40 DEBUG RegistrationRepo:30 - 
+ Record Inserted Successfully 
+
+2018-07-30 19:53:40 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-30 19:53:40 DEBUG RegistrationRepo:38 - Registration Repository :---- GET ALL User Method
+2018-07-30 19:53:40 DEBUG RegistrationRepo:42 - 
+ Record Fetched Successfully 
+
+2018-07-30 19:55:18 INFO  RegistrationController:29 - Registration Controller :---- Registraion GET Method  
+2018-07-30 19:55:20 INFO  RegistrationController:53 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-30 19:55:20 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-30 19:55:20 DEBUG RegistrationRepo:38 - Registration Repository :---- GET ALL User Method
+2018-07-30 19:55:20 DEBUG RegistrationRepo:42 - 
+ Record Fetched Successfully 
+
+2018-07-30 19:55:34 INFO  RegistrationController:40 - Registration Controller :---- Registraion POST Method  
+2018-07-30 19:55:34 WARN  RegistrationService:29 - Registration Service :---- Save User Method
+2018-07-30 19:55:34 DEBUG RegistrationRepo:25 - Registration Repository :---- Save User Method
+2018-07-30 19:55:34 DEBUG RegistrationRepo:30 - 
+ Record Inserted Successfully 
+
+2018-07-30 19:55:34 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-30 19:55:34 DEBUG RegistrationRepo:38 - Registration Repository :---- GET ALL User Method
+2018-07-30 19:55:34 DEBUG RegistrationRepo:42 - 
+ Record Fetched Successfully 
+
+2018-07-31 15:50:53 INFO  RegistrationController:30 - Registration Controller :---- Registraion GET Method  
+2018-07-31 15:50:56 INFO  RegistrationController:54 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-31 15:50:57 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-31 15:50:57 DEBUG RegistrationRepo:39 - Registration Repository :---- GET ALL User Method
+2018-07-31 15:50:57 DEBUG RegistrationRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 15:51:00 INFO  RegistrationController:65 - Registration Controller :---- Edit User GET Method  
+2018-07-31 15:51:00 WARN  RegistrationService:51 - Registration Service :---- GET Single User Method
+2018-07-31 15:51:00 DEBUG RegistrationRepo:52 - Registration Repository :---- GET Single User Method
+2018-07-31 16:24:52 INFO  RegistrationController:30 - Registration Controller :---- Registraion GET Method  
+2018-07-31 16:24:54 INFO  RegistrationController:54 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-31 16:24:54 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-31 16:24:54 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-07-31 16:24:54 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:24:59 INFO  RegistrationController:65 - Registration Controller :---- Edit User GET Method  
+2018-07-31 16:24:59 WARN  RegistrationService:51 - Registration Service :---- GET Single User Method
+2018-07-31 16:24:59 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-07-31 16:24:59 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:27:59 INFO  RegistrationController:30 - Registration Controller :---- Registraion GET Method  
+2018-07-31 16:28:03 INFO  RegistrationController:54 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-31 16:28:03 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-31 16:28:03 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-07-31 16:28:03 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:28:06 INFO  RegistrationController:65 - Registration Controller :---- Edit User GET Method  
+2018-07-31 16:28:06 WARN  RegistrationService:51 - Registration Service :---- GET Single User Method
+2018-07-31 16:28:06 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-07-31 16:28:06 DEBUG RegistrationRepo:69 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:37:37 INFO  RegistrationController:30 - Registration Controller :---- Registraion GET Method  
+2018-07-31 16:37:40 INFO  RegistrationController:54 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-31 16:37:41 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-31 16:37:41 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-07-31 16:37:41 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:37:43 INFO  RegistrationController:65 - Registration Controller :---- Edit User GET Method  
+2018-07-31 16:37:43 WARN  RegistrationService:51 - Registration Service :---- GET Single User Method
+2018-07-31 16:37:43 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-07-31 16:37:43 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:38:00 INFO  RegistrationController:41 - Registration Controller :---- Registraion POST Method  
+2018-07-31 16:38:00 WARN  RegistrationService:29 - Registration Service :---- Save User Method
+2018-07-31 16:38:00 DEBUG RegistrationRepo:26 - Registration Repository :---- Save User Method
+2018-07-31 16:38:00 DEBUG RegistrationRepo:32 - 
+ Record Inserted Successfully 
+
+2018-07-31 16:38:01 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-31 16:38:01 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-07-31 16:38:01 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:41:54 INFO  RegistrationController:30 - Registration Controller :---- Registraion GET Method  
+2018-07-31 16:41:56 INFO  RegistrationController:54 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-31 16:41:56 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-31 16:41:56 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-07-31 16:41:56 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:41:58 INFO  RegistrationController:65 - Registration Controller :---- Edit User GET Method  
+2018-07-31 16:41:59 WARN  RegistrationService:51 - Registration Service :---- GET Single User Method
+2018-07-31 16:41:59 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-07-31 16:41:59 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:42:10 INFO  RegistrationController:41 - Registration Controller :---- Registraion POST Method  
+2018-07-31 16:42:10 WARN  RegistrationService:29 - Registration Service :---- Save User Method
+2018-07-31 16:42:10 DEBUG RegistrationRepo:26 - Registration Repository :---- Save User Method
+2018-07-31 16:42:10 DEBUG RegistrationRepo:32 - 
+ Record Inserted Successfully 
+
+2018-07-31 16:42:10 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-31 16:42:10 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-07-31 16:42:10 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:43:09 INFO  RegistrationController:30 - Registration Controller :---- Registraion GET Method  
+2018-07-31 16:43:11 INFO  RegistrationController:54 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-31 16:43:11 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-31 16:43:11 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-07-31 16:43:11 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:43:17 INFO  RegistrationController:65 - Registration Controller :---- Edit User GET Method  
+2018-07-31 16:43:17 WARN  RegistrationService:51 - Registration Service :---- GET Single User Method
+2018-07-31 16:43:17 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-07-31 16:43:17 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:43:37 INFO  RegistrationController:41 - Registration Controller :---- Registraion POST Method  
+2018-07-31 16:43:37 WARN  RegistrationService:29 - Registration Service :---- Save User Method
+2018-07-31 16:43:37 DEBUG RegistrationRepo:26 - Registration Repository :---- Save User Method
+2018-07-31 16:43:37 DEBUG RegistrationRepo:32 - 
+ Record Inserted Successfully 
+
+2018-07-31 16:43:37 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-31 16:43:37 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-07-31 16:43:37 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:44:07 INFO  RegistrationController:65 - Registration Controller :---- Edit User GET Method  
+2018-07-31 16:44:07 WARN  RegistrationService:51 - Registration Service :---- GET Single User Method
+2018-07-31 16:44:07 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-07-31 16:44:07 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:58:52 INFO  RegistrationController:30 - Registration Controller :---- Registraion GET Method  
+2018-07-31 16:59:02 INFO  RegistrationController:54 - Registration Controller :---- Registraion POST Employee List Method  
+2018-07-31 16:59:02 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-31 16:59:02 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-07-31 16:59:03 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:59:05 INFO  RegistrationController:95 - Registration Controller :---- Delete User GET Method  
+2018-07-31 16:59:05 WARN  RegistrationService:62 - Registration Service :---- GET Single User Method
+2018-07-31 16:59:05 DEBUG RegistrationRepo:77 - Registration Repository :---- Delete Single User Method
+2018-07-31 16:59:05 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-07-31 16:59:05 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:59:05 DEBUG RegistrationRepo:83 - 
+ Record Delete Successfully 
+
+2018-07-31 16:59:05 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-31 16:59:05 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-07-31 16:59:05 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:59:14 INFO  RegistrationController:95 - Registration Controller :---- Delete User GET Method  
+2018-07-31 16:59:14 WARN  RegistrationService:62 - Registration Service :---- GET Single User Method
+2018-07-31 16:59:14 DEBUG RegistrationRepo:77 - Registration Repository :---- Delete Single User Method
+2018-07-31 16:59:14 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-07-31 16:59:14 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:59:14 DEBUG RegistrationRepo:83 - 
+ Record Delete Successfully 
+
+2018-07-31 16:59:14 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-31 16:59:14 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-07-31 16:59:14 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:59:24 INFO  RegistrationController:95 - Registration Controller :---- Delete User GET Method  
+2018-07-31 16:59:24 WARN  RegistrationService:62 - Registration Service :---- GET Single User Method
+2018-07-31 16:59:24 DEBUG RegistrationRepo:77 - Registration Repository :---- Delete Single User Method
+2018-07-31 16:59:24 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-07-31 16:59:24 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:59:24 DEBUG RegistrationRepo:83 - 
+ Record Delete Successfully 
+
+2018-07-31 16:59:24 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-31 16:59:24 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-07-31 16:59:24 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:59:30 INFO  RegistrationController:95 - Registration Controller :---- Delete User GET Method  
+2018-07-31 16:59:30 WARN  RegistrationService:62 - Registration Service :---- GET Single User Method
+2018-07-31 16:59:30 DEBUG RegistrationRepo:77 - Registration Repository :---- Delete Single User Method
+2018-07-31 16:59:30 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-07-31 16:59:30 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-07-31 16:59:30 DEBUG RegistrationRepo:83 - 
+ Record Delete Successfully 
+
+2018-07-31 16:59:30 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-31 16:59:30 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-07-31 16:59:30 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-07-31 18:04:14 INFO  LoginService:29 - Login Controller :---- Login GET Method  
+2018-07-31 18:04:23 INFO  RegistrationController:30 - Registration Controller :---- Registraion GET Method  
+2018-07-31 18:04:43 INFO  RegistrationController:41 - Registration Controller :---- Registraion POST Method  
+2018-07-31 18:04:43 WARN  RegistrationService:29 - Registration Service :---- Save User Method
+2018-07-31 18:04:43 DEBUG RegistrationRepo:26 - Registration Repository :---- Save User Method
+2018-07-31 18:04:43 DEBUG RegistrationRepo:32 - 
+ Record Inserted Successfully 
+
+2018-07-31 18:04:43 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-07-31 18:04:43 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-07-31 18:04:43 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-07-31 18:04:48 INFO  LoginService:29 - Login Controller :---- Login GET Method  
+2018-07-31 18:05:06 INFO  LoginService:41 - Login Controller :---- Login POST Method  
+2018-07-31 18:05:06 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 18:05:06 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 18:05:06 DEBUG LoginRepo:44 - 
+ Record Fetched Successfully 
+
+2018-07-31 18:14:33 INFO  LoginService:29 - Login Controller :---- Login GET Method  
+2018-07-31 18:14:42 INFO  LoginService:41 - Login Controller :---- Login POST Method  
+2018-07-31 18:14:43 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 18:14:43 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 18:14:43 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 18:22:00 INFO  LoginService:30 - Login Controller :---- Login GET Method  
+2018-07-31 18:22:11 INFO  LoginService:42 - Login Controller :---- Login POST Method  
+2018-07-31 18:22:11 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 18:22:11 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 18:22:12 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 18:23:31 INFO  LoginService:30 - Login Controller :---- Login GET Method  
+2018-07-31 18:23:38 INFO  LoginService:42 - Login Controller :---- Login POST Method  
+2018-07-31 18:23:39 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 18:23:39 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 18:23:39 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 18:24:29 INFO  LoginService:30 - Login Controller :---- Login GET Method  
+2018-07-31 18:24:36 INFO  LoginService:42 - Login Controller :---- Login POST Method  
+2018-07-31 18:24:36 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 18:24:36 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 18:24:36 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 18:27:23 INFO  LoginService:31 - Login Controller :---- Login GET Method  
+2018-07-31 18:27:32 INFO  LoginService:43 - Login Controller :---- Login POST Method  
+2018-07-31 18:27:32 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 18:27:32 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 18:27:33 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 18:38:17 INFO  LoginService:31 - Login Controller :---- Login GET Method  
+2018-07-31 18:38:25 INFO  LoginService:43 - Login Controller :---- Login POST Method  
+2018-07-31 18:38:25 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 18:38:25 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 18:38:25 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 18:40:39 INFO  LoginService:31 - Login Controller :---- Login GET Method  
+2018-07-31 18:40:43 INFO  LoginService:43 - Login Controller :---- Login POST Method  
+2018-07-31 18:40:43 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 18:40:43 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 18:40:43 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 18:42:16 INFO  LoginService:31 - Login Controller :---- Login GET Method  
+2018-07-31 18:42:19 INFO  LoginService:43 - Login Controller :---- Login POST Method  
+2018-07-31 18:42:20 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 18:42:20 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 18:42:20 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 18:44:18 INFO  LoginService:31 - Login Controller :---- Login GET Method  
+2018-07-31 18:44:22 INFO  LoginService:43 - Login Controller :---- Login POST Method  
+2018-07-31 18:44:22 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 18:44:22 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 18:44:23 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 18:47:48 INFO  LoginService:31 - Login Controller :---- Login GET Method  
+2018-07-31 18:47:51 INFO  LoginService:43 - Login Controller :---- Login POST Method  
+2018-07-31 18:47:52 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 18:47:52 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 18:47:52 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 18:48:20 INFO  LoginService:43 - Login Controller :---- Login POST Method  
+2018-07-31 18:48:20 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 18:48:20 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 18:48:20 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 18:52:29 INFO  LoginService:31 - Login Controller :---- Login GET Method  
+2018-07-31 18:52:35 INFO  LoginService:43 - Login Controller :---- Login POST Method  
+2018-07-31 18:52:35 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 18:52:35 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 18:52:36 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 19:27:12 INFO  LoginService:31 - Login Controller :---- Login GET Method  
+2018-07-31 19:27:18 INFO  LoginService:43 - Login Controller :---- Login POST Method  
+2018-07-31 19:27:18 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 19:27:18 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 19:27:19 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 19:29:13 INFO  LoginService:31 - Login Controller :---- Login GET Method  
+2018-07-31 19:29:22 INFO  LoginService:43 - Login Controller :---- Login POST Method  
+2018-07-31 19:29:22 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 19:29:22 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 19:29:22 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 19:30:24 INFO  LoginService:31 - Login Controller :---- Login GET Method  
+2018-07-31 19:30:31 INFO  LoginService:43 - Login Controller :---- Login POST Method  
+2018-07-31 19:30:31 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 19:30:31 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 19:30:32 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 19:30:53 WARN  ProductService:29 - Product Service :---- Save Product Method
+2018-07-31 19:30:53 DEBUG ProductRepo:29 - Product Repository :---- Save Product Method
+2018-07-31 19:30:53 DEBUG ProductRepo:33 - 
+ Record Inserted Successfully 
+
+2018-07-31 19:30:53 WARN  ProductService:40 - Product Service :---- Save Product Method
+2018-07-31 19:30:53 DEBUG ProductRepo:44 - Product Repository :---- GET ALL Product Method
+2018-07-31 19:30:53 DEBUG ProductRepo:48 - 
+ Record Fetched Successfully 
+
+2018-07-31 20:33:21 INFO  LoginService:31 - Login Controller :---- Login GET Method  
+2018-07-31 20:33:28 INFO  LoginService:43 - Login Controller :---- Login POST Method  
+2018-07-31 20:33:29 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 20:33:29 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 20:33:29 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 20:34:33 INFO  LoginService:31 - Login Controller :---- Login GET Method  
+2018-07-31 20:34:39 INFO  LoginService:43 - Login Controller :---- Login POST Method  
+2018-07-31 20:34:39 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 20:34:39 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 20:34:39 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-07-31 20:35:12 WARN  ProductService:30 - Product Service :---- Save Product Method
+2018-07-31 20:35:12 DEBUG ProductRepo:31 - Product Repository :---- Save Product Method
+2018-07-31 20:35:12 DEBUG ProductRepo:35 - 
+ Record Inserted Successfully 
+
+2018-07-31 20:35:12 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-07-31 20:35:12 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-07-31 20:35:12 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-07-31 20:38:33 INFO  LoginService:31 - Login Controller :---- Login GET Method  
+2018-07-31 20:38:39 INFO  LoginService:43 - Login Controller :---- Login POST Method  
+2018-07-31 20:38:39 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-07-31 20:38:39 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-07-31 20:38:40 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 10:15:59 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 12:48:02 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 12:48:10 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 12:48:10 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 12:48:10 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 12:48:11 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 12:56:16 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 12:56:22 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 12:56:22 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 12:56:22 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 12:56:23 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 12:56:23 INFO  ProductController:32 - Product Controller :---- GET Product GET Method  
+2018-08-01 12:56:23 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 12:56:23 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 12:56:23 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 13:04:45 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 13:04:53 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 13:04:53 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 13:04:53 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 13:04:53 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 13:04:53 INFO  ProductController:32 - Product Controller :---- GET Product GET Method  
+2018-08-01 13:04:53 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 13:04:53 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 13:04:53 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 13:07:20 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 13:07:27 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 13:07:27 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 13:07:27 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 13:07:27 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 13:07:27 INFO  ProductController:32 - Product Controller :---- GET Product GET Method  
+2018-08-01 13:07:27 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 13:07:27 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 13:07:27 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 13:07:42 INFO  ProductController:59 - Product Controller :---- Delete Product GET Method  
+2018-08-01 13:07:42 WARN  ProductService:52 - Registration Service :---- GET Single User Method
+2018-08-01 13:07:42 DEBUG ProductRepo:83 - Product Repository :---- Delete Single Product Method
+2018-08-01 13:07:42 DEBUG ProductRepo:59 - Product Repository :---- GET ALL Product Method
+2018-08-01 13:07:42 DEBUG ProductRepo:73 - 
+ Record Fetched Successfully 
+
+2018-08-01 13:07:42 DEBUG ProductRepo:89 - 
+ Record Delete Successfully 
+
+2018-08-01 13:07:42 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 13:07:42 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 13:07:42 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 13:12:45 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 13:12:52 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 13:12:52 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 13:12:52 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 13:12:52 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 13:12:52 INFO  ProductController:32 - Product Controller :---- GET Product GET Method  
+2018-08-01 13:12:52 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 13:12:53 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 13:12:53 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 13:12:58 INFO  ProductController:59 - Product Controller :---- Delete Product GET Method  
+2018-08-01 13:12:58 WARN  ProductService:52 - Registration Service :---- GET Single User Method
+2018-08-01 13:12:58 DEBUG ProductRepo:83 - Product Repository :---- Delete Single Product Method
+2018-08-01 13:12:58 DEBUG ProductRepo:59 - Product Repository :---- GET ALL Product Method
+2018-08-01 13:12:58 DEBUG ProductRepo:73 - 
+ Record Fetched Successfully 
+
+2018-08-01 13:12:58 DEBUG ProductRepo:89 - 
+ Record Delete Successfully 
+
+2018-08-01 13:12:58 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 13:12:58 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 13:12:58 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 13:18:50 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 13:18:56 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 13:18:57 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 13:18:57 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 13:18:57 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 13:18:57 INFO  ProductController:32 - Product Controller :---- GET Product GET Method  
+2018-08-01 13:18:57 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 13:18:57 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 13:18:57 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 13:19:19 INFO  ProductController:46 - Product Controller :---- Save Product POST Method  
+2018-08-01 13:19:19 WARN  ProductService:30 - Product Service :---- Save Product Method
+2018-08-01 13:19:19 DEBUG ProductRepo:31 - Product Repository :---- Save Product Method
+2018-08-01 13:19:19 DEBUG ProductRepo:35 - 
+ Record Inserted Successfully 
+
+2018-08-01 13:19:19 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 13:19:19 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 13:19:19 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 13:19:22 INFO  ProductController:59 - Product Controller :---- Delete Product GET Method  
+2018-08-01 13:19:22 WARN  ProductService:52 - Registration Service :---- GET Single User Method
+2018-08-01 13:19:22 DEBUG ProductRepo:83 - Product Repository :---- Delete Single Product Method
+2018-08-01 13:19:22 DEBUG ProductRepo:59 - Product Repository :---- GET ALL Product Method
+2018-08-01 13:19:22 DEBUG ProductRepo:73 - 
+ Record Fetched Successfully 
+
+2018-08-01 13:19:22 DEBUG ProductRepo:89 - 
+ Record Delete Successfully 
+
+2018-08-01 13:19:22 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 13:19:22 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 13:19:22 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:46:20 INFO  ProductController:32 - Product Controller :---- GET Product GET Method  
+2018-08-01 14:46:20 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 14:46:20 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:46:20 INFO  ProductController:32 - Product Controller :---- GET Product GET Method  
+2018-08-01 14:46:20 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 14:46:20 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:46:20 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:46:20 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:46:20 INFO  ProductController:32 - Product Controller :---- GET Product GET Method  
+2018-08-01 14:46:20 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 14:46:20 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:46:20 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:46:33 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 14:46:40 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 14:46:40 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 14:46:40 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 14:46:41 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:46:41 INFO  ProductController:32 - Product Controller :---- GET Product GET Method  
+2018-08-01 14:46:41 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 14:46:41 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:46:41 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:47:09 INFO  ProductController:46 - Product Controller :---- Save Product POST Method  
+2018-08-01 14:47:09 WARN  ProductService:30 - Product Service :---- Save Product Method
+2018-08-01 14:47:09 DEBUG ProductRepo:31 - Product Repository :---- Save Product Method
+2018-08-01 14:47:09 DEBUG ProductRepo:35 - 
+ Record Inserted Successfully 
+
+2018-08-01 14:47:09 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 14:47:09 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:47:09 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:47:14 INFO  ProductController:59 - Product Controller :---- Delete Product GET Method  
+2018-08-01 14:47:14 WARN  ProductService:52 - Registration Service :---- GET Single User Method
+2018-08-01 14:47:14 DEBUG ProductRepo:83 - Product Repository :---- Delete Single Product Method
+2018-08-01 14:47:14 DEBUG ProductRepo:59 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:47:14 DEBUG ProductRepo:73 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:47:14 DEBUG ProductRepo:89 - 
+ Record Delete Successfully 
+
+2018-08-01 14:47:14 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 14:47:14 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:47:14 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:54:00 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 14:54:08 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 14:54:08 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 14:54:08 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 14:54:09 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:54:09 INFO  ProductController:32 - Product Controller :---- GET Product GET Method  
+2018-08-01 14:54:09 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 14:54:09 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:54:09 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:55:05 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 14:55:13 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 14:55:13 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 14:55:13 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 14:55:13 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:55:13 INFO  ProductController:32 - Product Controller :---- GET Product GET Method  
+2018-08-01 14:55:13 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 14:55:13 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:55:14 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:55:29 INFO  ProductController:46 - Product Controller :---- Save Product POST Method  
+2018-08-01 14:55:29 WARN  ProductService:30 - Product Service :---- Save Product Method
+2018-08-01 14:55:29 DEBUG ProductRepo:31 - Product Repository :---- Save Product Method
+2018-08-01 14:55:29 DEBUG ProductRepo:35 - 
+ Record Inserted Successfully 
+
+2018-08-01 14:55:29 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 14:55:29 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:55:29 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:55:38 INFO  ProductController:46 - Product Controller :---- Save Product POST Method  
+2018-08-01 14:55:38 WARN  ProductService:30 - Product Service :---- Save Product Method
+2018-08-01 14:55:38 DEBUG ProductRepo:31 - Product Repository :---- Save Product Method
+2018-08-01 14:55:38 DEBUG ProductRepo:35 - 
+ Record Inserted Successfully 
+
+2018-08-01 14:55:38 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 14:55:38 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:55:38 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:55:43 INFO  ProductController:59 - Product Controller :---- Delete Product GET Method  
+2018-08-01 14:55:43 WARN  ProductService:52 - Registration Service :---- GET Single User Method
+2018-08-01 14:55:43 DEBUG ProductRepo:83 - Product Repository :---- Delete Single Product Method
+2018-08-01 14:55:43 DEBUG ProductRepo:59 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:55:43 DEBUG ProductRepo:73 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:55:43 DEBUG ProductRepo:89 - 
+ Record Delete Successfully 
+
+2018-08-01 14:55:43 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 14:55:43 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:55:43 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:56:19 INFO  ProductController:46 - Product Controller :---- Save Product POST Method  
+2018-08-01 14:56:19 WARN  ProductService:30 - Product Service :---- Save Product Method
+2018-08-01 14:56:19 DEBUG ProductRepo:31 - Product Repository :---- Save Product Method
+2018-08-01 14:56:19 DEBUG ProductRepo:35 - 
+ Record Inserted Successfully 
+
+2018-08-01 14:56:19 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 14:56:19 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:56:19 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:56:42 INFO  ProductController:46 - Product Controller :---- Save Product POST Method  
+2018-08-01 14:56:42 WARN  ProductService:30 - Product Service :---- Save Product Method
+2018-08-01 14:56:42 DEBUG ProductRepo:31 - Product Repository :---- Save Product Method
+2018-08-01 14:56:42 DEBUG ProductRepo:35 - 
+ Record Inserted Successfully 
+
+2018-08-01 14:56:42 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 14:56:42 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:56:42 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:56:58 INFO  ProductController:59 - Product Controller :---- Delete Product GET Method  
+2018-08-01 14:56:58 WARN  ProductService:52 - Registration Service :---- GET Single User Method
+2018-08-01 14:56:58 DEBUG ProductRepo:83 - Product Repository :---- Delete Single Product Method
+2018-08-01 14:56:58 DEBUG ProductRepo:59 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:56:58 DEBUG ProductRepo:73 - 
+ Record Fetched Successfully 
+
+2018-08-01 14:56:58 DEBUG ProductRepo:89 - 
+ Record Delete Successfully 
+
+2018-08-01 14:56:58 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 14:56:58 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 14:56:58 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 15:02:15 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 15:02:21 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 15:02:21 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 15:02:21 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 15:02:22 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 15:02:22 INFO  ProductController:32 - Product Controller :---- GET Product GET Method  
+2018-08-01 15:02:22 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 15:02:22 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 15:02:22 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 15:02:34 INFO  ProductController:46 - Product Controller :---- Save Product POST Method  
+2018-08-01 15:02:34 WARN  ProductService:30 - Product Service :---- Save Product Method
+2018-08-01 15:02:34 DEBUG ProductRepo:31 - Product Repository :---- Save Product Method
+2018-08-01 15:02:34 DEBUG ProductRepo:35 - 
+ Record Inserted Successfully 
+
+2018-08-01 15:02:35 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 15:02:35 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 15:02:35 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 15:02:37 INFO  ProductController:59 - Product Controller :---- Delete Product GET Method  
+2018-08-01 15:02:37 WARN  ProductService:52 - Registration Service :---- GET Single User Method
+2018-08-01 15:02:37 DEBUG ProductRepo:83 - Product Repository :---- Delete Single Product Method
+2018-08-01 15:02:37 DEBUG ProductRepo:59 - Product Repository :---- GET ALL Product Method
+2018-08-01 15:02:37 DEBUG ProductRepo:73 - 
+ Record Fetched Successfully 
+
+2018-08-01 15:02:37 DEBUG ProductRepo:89 - 
+ Record Delete Successfully 
+
+2018-08-01 15:02:37 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 15:02:37 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 15:02:37 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 15:02:37 INFO  ProductController:32 - Product Controller :---- GET Product GET Method  
+2018-08-01 15:02:37 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 15:02:37 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 15:02:37 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 15:50:49 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 15:50:57 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 15:50:57 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 15:50:57 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 15:50:57 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 15:50:57 INFO  ProductController:32 - Product Controller :---- GET Product GET Method  
+2018-08-01 15:50:57 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 15:50:57 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 15:50:57 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 15:51:01 INFO  ProductController:76 - Product Controller :---- EDIT Product GET Method  
+2018-08-01 16:09:55 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 16:10:01 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 16:10:01 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 16:10:01 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 16:10:02 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 16:10:10 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 16:10:10 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 16:10:10 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 16:10:10 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 16:10:10 INFO  ProductController:34 - Product Controller :---- GET Product GET Method  
+2018-08-01 16:10:10 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 16:10:10 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 16:10:10 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 16:10:13 INFO  ProductController:78 - Product Controller :---- EDIT Product GET Method  
+2018-08-01 16:10:13 WARN  ProductService:64 - Product Service :---- GET Single Product Method
+2018-08-01 16:10:13 DEBUG ProductRepo:59 - Product Repository :---- GET ALL Product Method
+2018-08-01 16:10:13 DEBUG ProductRepo:73 - 
+ Record Fetched Successfully 
+
+2018-08-01 16:10:22 INFO  ProductController:95 - Product Controller :---- EDIT Product POST Method  
+2018-08-01 16:10:22 WARN  ProductService:75 - Product Service :---- Edit Product Method
+2018-08-01 16:10:22 DEBUG ProductRepo:98 - Product Repository :---- Edit Single Product Method
+2018-08-01 16:12:07 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 16:12:23 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 16:12:23 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 16:12:23 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 16:12:23 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 16:12:24 INFO  ProductController:34 - Product Controller :---- GET Product GET Method  
+2018-08-01 16:12:24 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 16:12:24 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 16:12:24 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 16:12:29 INFO  ProductController:78 - Product Controller :---- EDIT Product GET Method  
+2018-08-01 16:12:29 WARN  ProductService:64 - Product Service :---- GET Single Product Method
+2018-08-01 16:12:29 DEBUG ProductRepo:59 - Product Repository :---- GET ALL Product Method
+2018-08-01 16:12:29 DEBUG ProductRepo:73 - 
+ Record Fetched Successfully 
+
+2018-08-01 16:12:36 INFO  ProductController:95 - Product Controller :---- EDIT Product POST Method  
+2018-08-01 16:12:36 WARN  ProductService:75 - Product Service :---- Edit Product Method
+2018-08-01 16:12:36 DEBUG ProductRepo:98 - Product Repository :---- Edit Single Product Method
+2018-08-01 16:12:36 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 16:12:36 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 16:12:36 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 16:19:49 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 16:19:51 INFO  RegistrationController:30 - Registration Controller :---- Registraion GET Method  
+2018-08-01 16:19:53 INFO  RegistrationController:54 - Registration Controller :---- Registraion POST Employee List Method  
+2018-08-01 16:19:53 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-08-01 16:19:53 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-08-01 16:19:53 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-08-01 16:19:56 INFO  RegistrationController:65 - Registration Controller :---- Edit User GET Method  
+2018-08-01 16:19:56 WARN  RegistrationService:51 - Registration Service :---- GET Single User Method
+2018-08-01 16:19:56 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-08-01 16:19:56 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-08-01 16:55:25 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 16:55:29 INFO  RegistrationController:32 - Registration Controller :---- Registraion GET Method  
+2018-08-01 16:55:31 INFO  RegistrationController:56 - Registration Controller :---- Registraion POST Employee List Method  
+2018-08-01 16:55:31 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-08-01 16:55:31 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-08-01 16:55:31 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-08-01 16:55:33 INFO  RegistrationController:67 - Registration Controller :---- Edit User GET Method  
+2018-08-01 16:55:33 WARN  RegistrationService:51 - Registration Service :---- GET Single User Method
+2018-08-01 16:55:33 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-08-01 16:55:34 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-08-01 16:57:44 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 16:57:46 INFO  RegistrationController:32 - Registration Controller :---- Registraion GET Method  
+2018-08-01 16:57:48 INFO  RegistrationController:56 - Registration Controller :---- Registraion POST Employee List Method  
+2018-08-01 16:57:48 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-08-01 16:57:48 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-08-01 16:57:48 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-08-01 16:57:50 INFO  RegistrationController:67 - Registration Controller :---- Edit User GET Method  
+2018-08-01 16:57:50 WARN  RegistrationService:51 - Registration Service :---- GET Single User Method
+2018-08-01 16:57:50 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-08-01 16:57:50 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-08-01 16:58:43 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 16:58:45 INFO  RegistrationController:32 - Registration Controller :---- Registraion GET Method  
+2018-08-01 16:58:47 INFO  RegistrationController:56 - Registration Controller :---- Registraion POST Employee List Method  
+2018-08-01 16:58:47 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-08-01 16:58:47 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-08-01 16:58:47 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-08-01 16:58:50 INFO  RegistrationController:67 - Registration Controller :---- Edit User GET Method  
+2018-08-01 16:58:50 WARN  RegistrationService:51 - Registration Service :---- GET Single User Method
+2018-08-01 16:58:50 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-08-01 16:58:50 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:01:02 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 17:01:07 INFO  RegistrationController:32 - Registration Controller :---- Registraion GET Method  
+2018-08-01 17:01:09 INFO  RegistrationController:56 - Registration Controller :---- Registraion POST Employee List Method  
+2018-08-01 17:01:09 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-08-01 17:01:09 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-08-01 17:01:10 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:01:12 INFO  RegistrationController:67 - Registration Controller :---- Edit User GET Method  
+2018-08-01 17:01:12 WARN  RegistrationService:51 - Registration Service :---- GET Single User Method
+2018-08-01 17:01:12 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-08-01 17:01:13 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:03:49 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 17:03:52 INFO  RegistrationController:32 - Registration Controller :---- Registraion GET Method  
+2018-08-01 17:03:54 INFO  RegistrationController:56 - Registration Controller :---- Registraion POST Employee List Method  
+2018-08-01 17:03:54 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-08-01 17:03:54 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-08-01 17:03:54 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:03:56 INFO  RegistrationController:67 - Registration Controller :---- Edit User GET Method  
+2018-08-01 17:03:56 WARN  RegistrationService:51 - Registration Service :---- GET Single User Method
+2018-08-01 17:03:56 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-08-01 17:03:57 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:05:31 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 17:05:33 INFO  RegistrationController:32 - Registration Controller :---- Registraion GET Method  
+2018-08-01 17:05:35 INFO  RegistrationController:56 - Registration Controller :---- Registraion POST Employee List Method  
+2018-08-01 17:05:35 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-08-01 17:05:35 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-08-01 17:05:35 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:05:38 INFO  RegistrationController:67 - Registration Controller :---- Edit User GET Method  
+2018-08-01 17:05:38 WARN  RegistrationService:51 - Registration Service :---- GET Single User Method
+2018-08-01 17:05:38 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-08-01 17:05:38 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:05:47 INFO  RegistrationController:83 - Registration Controller :---- Edit User POST Method  
+2018-08-01 17:05:47 WARN  RegistrationService:72 - Registration Service :---- Edit User Method
+2018-08-01 17:05:47 DEBUG RegistrationRepo:93 - Registration Repository :---- Edit Single User Method
+2018-08-01 17:05:47 DEBUG RegistrationRepo:98 - 
+ Record Update Successfully 
+
+2018-08-01 17:05:48 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-08-01 17:05:48 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-08-01 17:05:48 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:07:16 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 17:07:16 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 17:07:16 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 17:07:16 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:07:16 INFO  ProductController:34 - Product Controller :---- GET Product GET Method  
+2018-08-01 17:07:16 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:07:16 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:07:16 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:07:20 INFO  ProductController:78 - Product Controller :---- EDIT Product GET Method  
+2018-08-01 17:07:20 WARN  ProductService:64 - Product Service :---- GET Single Product Method
+2018-08-01 17:07:20 DEBUG ProductRepo:59 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:07:20 DEBUG ProductRepo:73 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:07:22 INFO  ProductController:95 - Product Controller :---- EDIT Product POST Method  
+2018-08-01 17:07:22 WARN  ProductService:75 - Product Service :---- Edit Product Method
+2018-08-01 17:07:22 DEBUG ProductRepo:98 - Product Repository :---- Edit Single Product Method
+2018-08-01 17:07:22 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:07:22 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:07:22 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:08:14 INFO  RegistrationController:32 - Registration Controller :---- Registraion GET Method  
+2018-08-01 17:08:15 INFO  RegistrationController:56 - Registration Controller :---- Registraion POST Employee List Method  
+2018-08-01 17:08:15 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-08-01 17:08:15 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-08-01 17:08:15 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:13:34 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 17:13:36 INFO  RegistrationController:32 - Registration Controller :---- Registraion GET Method  
+2018-08-01 17:13:38 INFO  RegistrationController:56 - Registration Controller :---- Registraion POST Employee List Method  
+2018-08-01 17:13:38 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-08-01 17:13:38 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-08-01 17:13:38 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:13:42 INFO  RegistrationController:32 - Registration Controller :---- Registraion GET Method  
+2018-08-01 17:13:52 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 17:13:52 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 17:13:52 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 17:13:52 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:13:52 INFO  ProductController:34 - Product Controller :---- GET Product GET Method  
+2018-08-01 17:13:52 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:13:52 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:13:52 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:13:56 INFO  ProductController:78 - Product Controller :---- EDIT Product GET Method  
+2018-08-01 17:13:56 WARN  ProductService:64 - Product Service :---- GET Single Product Method
+2018-08-01 17:13:56 DEBUG ProductRepo:59 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:13:56 DEBUG ProductRepo:73 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:14:02 INFO  ProductController:95 - Product Controller :---- EDIT Product POST Method  
+2018-08-01 17:14:02 WARN  ProductService:75 - Product Service :---- Edit Product Method
+2018-08-01 17:14:02 DEBUG ProductRepo:98 - Product Repository :---- Edit Single Product Method
+2018-08-01 17:14:02 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:14:02 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:14:02 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:14:03 INFO  ProductController:34 - Product Controller :---- GET Product GET Method  
+2018-08-01 17:14:03 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:14:03 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:14:03 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:15:18 INFO  ProductController:48 - Product Controller :---- Save Product POST Method  
+2018-08-01 17:15:18 WARN  ProductService:30 - Product Service :---- Save Product Method
+2018-08-01 17:15:18 DEBUG ProductRepo:31 - Product Repository :---- Save Product Method
+2018-08-01 17:15:18 DEBUG ProductRepo:35 - 
+ Record Inserted Successfully 
+
+2018-08-01 17:15:18 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:15:18 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:15:18 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:16:07 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 17:16:10 INFO  RegistrationController:32 - Registration Controller :---- Registraion GET Method  
+2018-08-01 17:16:21 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 17:16:21 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 17:16:21 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 17:16:21 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:16:21 INFO  ProductController:34 - Product Controller :---- GET Product GET Method  
+2018-08-01 17:16:21 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:16:21 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:16:21 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:16:26 INFO  ProductController:61 - Product Controller :---- Delete Product GET Method  
+2018-08-01 17:16:26 WARN  ProductService:52 - Product Service :---- Delete Single Product Method
+2018-08-01 17:16:26 DEBUG ProductRepo:83 - Product Repository :---- Delete Single Product Method
+2018-08-01 17:16:26 DEBUG ProductRepo:59 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:16:26 DEBUG ProductRepo:73 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:16:26 DEBUG ProductRepo:89 - 
+ Record Delete Successfully 
+
+2018-08-01 17:16:26 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:16:26 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:16:26 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:16:26 INFO  ProductController:34 - Product Controller :---- GET Product GET Method  
+2018-08-01 17:16:26 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:16:26 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:16:26 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:16:37 INFO  ProductController:48 - Product Controller :---- Save Product POST Method  
+2018-08-01 17:16:37 WARN  ProductService:30 - Product Service :---- Save Product Method
+2018-08-01 17:16:37 DEBUG ProductRepo:31 - Product Repository :---- Save Product Method
+2018-08-01 17:16:38 DEBUG ProductRepo:35 - 
+ Record Inserted Successfully 
+
+2018-08-01 17:16:38 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:16:38 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:16:38 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:16:38 INFO  ProductController:34 - Product Controller :---- GET Product GET Method  
+2018-08-01 17:16:38 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:16:38 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:16:38 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:17:22 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 17:17:23 INFO  RegistrationController:32 - Registration Controller :---- Registraion GET Method  
+2018-08-01 17:17:51 INFO  RegistrationController:43 - Registration Controller :---- Registraion POST Method  
+2018-08-01 17:17:51 WARN  RegistrationService:29 - Registration Service :---- Save User Method
+2018-08-01 17:17:51 DEBUG RegistrationRepo:26 - Registration Repository :---- Save User Method
+2018-08-01 17:17:51 DEBUG RegistrationRepo:32 - 
+ Record Inserted Successfully 
+
+2018-08-01 17:17:51 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-08-01 17:17:51 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-08-01 17:17:51 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:18:02 INFO  RegistrationController:67 - Registration Controller :---- Edit User GET Method  
+2018-08-01 17:18:02 WARN  RegistrationService:51 - Registration Service :---- GET Single User Method
+2018-08-01 17:18:02 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-08-01 17:18:02 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:18:15 INFO  RegistrationController:83 - Registration Controller :---- Edit User POST Method  
+2018-08-01 17:18:15 WARN  RegistrationService:72 - Registration Service :---- Edit User Method
+2018-08-01 17:18:15 DEBUG RegistrationRepo:93 - Registration Repository :---- Edit Single User Method
+2018-08-01 17:18:15 DEBUG RegistrationRepo:98 - 
+ Record Update Successfully 
+
+2018-08-01 17:18:15 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-08-01 17:18:15 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-08-01 17:18:15 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:18:20 INFO  RegistrationController:97 - Registration Controller :---- Delete User GET Method  
+2018-08-01 17:18:20 WARN  RegistrationService:62 - Registration Service :---- Delete User Service Method
+2018-08-01 17:18:20 DEBUG RegistrationRepo:77 - Registration Repository :---- Delete Single User Method
+2018-08-01 17:18:20 DEBUG RegistrationRepo:53 - Registration Repository :---- GET Single User Method
+2018-08-01 17:18:20 DEBUG RegistrationRepo:67 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:18:20 DEBUG RegistrationRepo:83 - 
+ Record Delete Successfully 
+
+2018-08-01 17:18:20 WARN  RegistrationService:40 - Registration Service :---- GET ALL User Method
+2018-08-01 17:18:20 DEBUG RegistrationRepo:40 - Registration Repository :---- GET ALL User Method
+2018-08-01 17:18:20 DEBUG RegistrationRepo:44 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:18:26 INFO  RegistrationController:32 - Registration Controller :---- Registraion GET Method  
+2018-08-01 17:18:36 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 17:18:41 INFO  LoginService:45 - Login Controller :---- Login POST Method  
+2018-08-01 17:18:41 WARN  LoginService:25 - Login Service :---- Check Login Method
+2018-08-01 17:18:41 DEBUG LoginRepo:28 - Login Repository :---- Check Login Method
+2018-08-01 17:18:41 DEBUG LoginRepo:43 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:18:41 INFO  ProductController:34 - Product Controller :---- GET Product GET Method  
+2018-08-01 17:18:41 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:18:41 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:18:41 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:19:01 INFO  ProductController:61 - Product Controller :---- Delete Product GET Method  
+2018-08-01 17:19:01 WARN  ProductService:52 - Product Service :---- Delete Single Product Method
+2018-08-01 17:19:01 DEBUG ProductRepo:83 - Product Repository :---- Delete Single Product Method
+2018-08-01 17:19:01 DEBUG ProductRepo:59 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:19:01 DEBUG ProductRepo:73 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:19:01 DEBUG ProductRepo:89 - 
+ Record Delete Successfully 
+
+2018-08-01 17:19:01 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:19:01 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:19:01 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:19:01 INFO  ProductController:34 - Product Controller :---- GET Product GET Method  
+2018-08-01 17:19:01 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:19:01 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:19:01 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:19:05 INFO  ProductController:78 - Product Controller :---- EDIT Product GET Method  
+2018-08-01 17:19:05 WARN  ProductService:64 - Product Service :---- GET Single Product Method
+2018-08-01 17:19:05 DEBUG ProductRepo:59 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:19:05 DEBUG ProductRepo:73 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:19:12 INFO  ProductController:95 - Product Controller :---- EDIT Product POST Method  
+2018-08-01 17:19:12 WARN  ProductService:75 - Product Service :---- Edit Product Method
+2018-08-01 17:19:12 DEBUG ProductRepo:98 - Product Repository :---- Edit Single Product Method
+2018-08-01 17:19:13 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:19:13 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:19:13 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:19:13 INFO  ProductController:34 - Product Controller :---- GET Product GET Method  
+2018-08-01 17:19:13 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:19:13 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:19:13 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:19:32 INFO  ProductController:48 - Product Controller :---- Save Product POST Method  
+2018-08-01 17:19:32 WARN  ProductService:30 - Product Service :---- Save Product Method
+2018-08-01 17:19:32 DEBUG ProductRepo:31 - Product Repository :---- Save Product Method
+2018-08-01 17:19:32 DEBUG ProductRepo:35 - 
+ Record Inserted Successfully 
+
+2018-08-01 17:19:32 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:19:32 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:19:32 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:19:32 INFO  ProductController:34 - Product Controller :---- GET Product GET Method  
+2018-08-01 17:19:32 WARN  ProductService:41 - Product Service :---- Save Product Method
+2018-08-01 17:19:32 DEBUG ProductRepo:46 - Product Repository :---- GET ALL Product Method
+2018-08-01 17:19:32 DEBUG ProductRepo:50 - 
+ Record Fetched Successfully 
+
+2018-08-01 17:19:48 INFO  LoginService:32 - Login Controller :---- Login GET Method  
+2018-08-01 17:19:52 INFO  RegistrationController:32 - Registration Controller :---- Registraion GET Method  

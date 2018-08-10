@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE tiles-definitions PUBLIC
+        "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"
+        "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+
+<!-- Step no 5:- create tiles.xml & add All dependencies in pom.xml(ZohoRepo) -->
+
+<!-- in these step we have multiple Scenario -->
+
+<tiles-definitions>
+
+	<!-- Scenario :- 1 -->
+
+	<definition name="baseTemplate" id="baseTemplate"
+		template="/WEB-INF/layout/baseLayout.jsp">
+
+		<put-attribute name="header" value="/WEB-INF/layout/header.jsp"></put-attribute>
+
+		<put-attribute name="footer" value="/WEB-INF/layout/footer.jsp"></put-attribute>
+
+		<put-attribute name="menu" value="/WEB-INF/layout/menu.jsp"></put-attribute>
+
+		<put-attribute name="body" value="${body}"></put-attribute>
+
+	</definition>
+
+	<!-- Mapping for Login Page -->
+
+	<!-- here name="login is same with the hyperlink name of index.jsp" -->
+
+	<definition name="login" id="login" extends="baseTemplate">
+
+		<put-attribute name="body" value="/WEB-INF/jsp/login.jsp"></put-attribute>
+
+	</definition>
+
+
+	<!-- Mapping for Registration Page -->
+
+	<definition name="registration" id="registration" extends="baseTemplate">
+
+		<put-attribute name="body" value="/WEB-INF/jsp/registration.jsp"></put-attribute>
+
+	</definition>
+
+
+	<!-- Mapping for Product Page -->
+
+	<definition name="product" id="product" template="/WEB-INF/jsp/product.jsp">
+	
+	</definition>
+
+
+
+</tiles-definitions>

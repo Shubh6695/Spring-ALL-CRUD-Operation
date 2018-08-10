@@ -1,0 +1,49 @@
+package com.aartek.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import com.aartek.model.User;
+
+import java.util.Map;
+
+import org.apache.log4j.Logger;
+
+@Controller
+public class RegistrationController {
+
+	
+	private static final Logger log = Logger.getLogger(RegistrationController.class);
+
+	@GetMapping("/registration")
+	public String registrationGET(Model map)
+	{
+		
+		log.info("Registration Controller :---- Registraion GET Method  ");
+		
+		map.addAttribute("UserSignUP", new User());
+
+		return "registration";
+	}
+	
+	@PostMapping("/registration")
+	public String  registrationPOST(@ModelAttribute("UserSignUP") User user, Map<String, Object> map)
+	{
+		
+		log.info("Registration Controller :---- Registraion POST Method  ");
+		
+		rservice.		
+		
+//		map.put("userList", rservice.getAllUser(user));
+		
+		return "alluser";
+
+		
+		
+	}
+	
+	
+}

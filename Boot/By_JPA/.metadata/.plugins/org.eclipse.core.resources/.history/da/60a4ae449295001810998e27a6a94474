@@ -1,0 +1,5 @@
+package com.aartek.serviceInterface;
+
+public interface RegistrationInterface {
+
+}

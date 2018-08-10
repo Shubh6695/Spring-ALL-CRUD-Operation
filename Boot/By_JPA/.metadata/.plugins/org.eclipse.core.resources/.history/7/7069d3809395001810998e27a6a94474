@@ -1,0 +1,55 @@
+package com.aartek.serviceImpl;
+
+import java.util.List;
+
+import javax.transaction.Transactional;
+
+import org.apache.log4j.Logger;
+import org.springframework.stereotype.Service;
+
+import com.aartek.model.User;
+import com.aartek.serviceInterface.RegistrationServiceInterface;
+
+
+@Service
+@Transactional
+public class RegistrationImpl implements RegistrationServiceInterface 
+{
+
+	
+	private static final Logger log=Logger.getLogger(RegistrationImpl.class);
+
+	
+	
+	public void createUser(User user) 
+	{
+		
+		
+	}
+
+	public List<User> getUser() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public User findById(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public User update(User user, Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void deleteUserById(Integer id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public User updatePartially(User user, Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

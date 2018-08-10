@@ -1,0 +1,11 @@
+
+squid:S1488'"\Immediately return this expression instead of assigning it to the temporary variable "list".(™Û8ÕÊ®Ï,H‘RMINORZ
+CODE_SMELL
+jsquid:S1135B"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ı„–®Ï,H›RINFOZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰–øøÿÿÿÿH…RMINORZ
+CODE_SMELL
+squid:S1488."\Immediately return this expression instead of assigning it to the temporary variable "user".(¶Éë³8ÛÃ¯Ï,HÀRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(„§ñ£8‘¼Á¯Ï,H¥RMAJORZ
+CODE_SMELL
